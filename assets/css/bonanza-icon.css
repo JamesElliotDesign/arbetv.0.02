@@ -1,0 +1,84 @@
+@font-face {
+  font-family: 'bonanza';
+  src:  url('../fonts/bonanza.eot?9qigpx');
+  src:  url('../fonts/bonanza.eot?9qigpx#iefix') format('embedded-opentype'),
+    url('../fonts/bonanza.ttf?9qigpx') format('truetype'),
+    url('../fonts/bonanza.woff?9qigpx') format('woff'),
+    url('../fonts/bonanza.svg?9qigpx#bonanza') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.icon-bonanza- {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'bonanza' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-magic-wand:before {
+  content: "\e910";
+}
+.icon-bonanzamoney-check:before {
+  content: "\e911";
+}
+.icon-bonanzadice:before {
+  content: "\e912";
+}
+.icon-bonanzarocket-lunch:before {
+  content: "\e900";
+}
+.icon-bonanzapaper-plane:before {
+  content: "\e901";
+}
+.icon-bonanzaangle-right:before {
+  content: "\e902";
+}
+.icon-bonanzaangle-left:before {
+  content: "\e903";
+}
+.icon-bonanzaangle-down:before {
+  content: "\e904";
+}
+.icon-bonanzaangle-up:before {
+  content: "\e905";
+}
+.icon-bonanzacheck:before {
+  content: "\e906";
+}
+.icon-bonanzaenvelope:before {
+  content: "\e907";
+}
+.icon-bonanzaheart:before {
+  content: "\e908";
+}
+.icon-bonanzahome:before {
+  content: "\e909";
+}
+.icon-bonanzainstagram:before {
+  content: "\e90a";
+}
+.icon-bonanzamarker:before {
+  content: "\e90b";
+}
+.icon-bonanzamenu-burger:before {
+  content: "\e90c";
+}
+.icon-bonanzaphone-call:before {
+  content: "\e90d";
+}
+.icon-bonanzauser:before {
+  content: "\e90e";
+}
+.icon-bonanzayoutube:before {
+  content: "\e90f";
+}
